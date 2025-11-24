@@ -1,0 +1,7 @@
+numpy==2.1.0
+torch @ file:///opt/transfer/torch-2.9.0a0%2B145a3a7bda.nv25.10-36764868-cp312-cp312-linux_x86_64.whl#sha256=b0deace27ff53af05bed068d97b8403e4a24881b4d07e699a56c1ddecae3de5b
+torchvision @ file:///opt/transfer/torchvision-0.24.0a0%2B094e7af5-36764868-cp312-cp312-manylinux_2_28_x86_64.whl#sha256=f9c5ed8e970a394d54d5ea1d48d5800430a03d401ed9ae4212b6be7618383a97
+timm==1.0.22
+matplotlib==3.10.7
+Pillow==12.0.0
+tqdm==4.67.1
